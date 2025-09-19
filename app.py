@@ -1,8 +1,9 @@
 
 
-def text_to_morse(text):
-    pass
+class MorseConverter:
 
+    def text_to_morse(self, text):
+        pass
 
-def morse_to_text(text):
-    pass
+    def morse_to_text(self, text):
+        pass
